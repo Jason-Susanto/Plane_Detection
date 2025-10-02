@@ -3,7 +3,6 @@
 *.fbx filter=lfs diff=lfs merge=lfs
 *.psd filter=lfs diff=lfs merge=lfs
 *.wav filter=lfs diff=lfs merge=lfs
-
 *.mp3 filter=lfs diff=lfs merge=lfs
 # Unity Core Files
 *.unity filter=lfs diff=lfs merge=lfs
